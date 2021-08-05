@@ -19,7 +19,7 @@ def fibonacci(n):
 
 
 def recusivefibo(n):
-    #print(n)
+    #git initprint(n)
     if n<=0:
         return "invalid"
     elif n==1:
@@ -29,6 +29,6 @@ def recusivefibo(n):
     else:
         return recusivefibo(n-1)+recusivefibo(n-2)
 
-recusivefibo(9)
+recusivefibo(30)
 
-fibonacci(9)
+fibonacci(30)
