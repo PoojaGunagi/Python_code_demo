@@ -14,4 +14,4 @@ def rotate(a,n,d):
     return a
 
 l=[1,2,3,4,5,6,7]
-print(rotate(l,7,2))
+print(rotate(l,7,4))
